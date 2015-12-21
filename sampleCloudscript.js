@@ -1,4 +1,5 @@
 // I am editing my cloudscript
+// today is Dec 21 -- longest day of the year!
 //Unicorn Battle FB App ID: 403608796495072
 var defaultCatalog = "CharacterClasses";
 
